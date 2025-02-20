@@ -96,9 +96,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" height="40" alt="vercel logo"  />
   <img width="12" />
 
+  <br>
+
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
+<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
 
 ###
 
@@ -128,7 +130,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayown/ayown/output/github-snake.svg" alt="Snake animation" />
+<div align="center"><img src="https://raw.githubusercontent.com/ayown/ayown/output/github-snake.svg" alt="Snake animation" /></div>
 
 ###
 
@@ -140,5 +142,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayown&" alt="ayown" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayown&" alt="ayown" /></div>
 
