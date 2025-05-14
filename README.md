@@ -15,9 +15,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
 🔭 **Currently exploring**:  
-- AR/VR development  
+- Different languages  
 - Diving deeper into the **MERN** stack  
 - Building side projects to learn by doing  
 
@@ -32,7 +31,7 @@ Java · JavaScript · React · Node.js · MongoDB
 💡 **Open to** collaboration, contributions, and meaningful tech conversations. Always eager to learn and grow together.
 
 
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayown&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
