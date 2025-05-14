@@ -95,11 +95,11 @@ Java · JavaScript · React · Node.js · MongoDB
 
 ###
 
-<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
+<img align="right" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s"  />
 
 ###
 
-<h3 align="center">📫 Connect with Me:</h3>
+<h3 align="left">📫 Connect with Me:</h3>
 <p align="left"></p>
 <div align="left">
   <a href="https://www.hackerrank.com/profile/bhattacharjeeay1" target="_blank">
