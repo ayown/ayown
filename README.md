@@ -1,9 +1,7 @@
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-
   <h1 style="color: #a259ff;">Hi there 👋</h1>
-
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Code,+coffee,+and+creativity+inside!;Namaste🙏+I'm+Ayan;Explore,+fork,+star,+and+repeat!;" />
 
 </div>
