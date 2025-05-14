@@ -15,19 +15,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **File-Sharing-App**
 
-- 🌱 I’m currently learning **REACT.JS AND NODE.JS**
+🔭 **Currently exploring**:  
+- AR/VR development  
+- Diving deeper into the **MERN** stack  
+- Building side projects to learn by doing  
 
-- 👯 I’m looking to collaborate on **Backend**
+💻 **Languages & Tools**:  
+Java · JavaScript · React · Node.js · MongoDB
 
-- 🤝 I’m looking for help with **Deployment**
+📚 You’ll often find me:  
+- Tinkering with code  
+- Reading something new in tech  
+- Trying to edit my way into this world - Occasional Editor ⚡
 
-- 💬 Ask me about **JAVASCRIPT**
-
-- 📫 How to reach me **bhattacharjeeayan93@gmail.com**
-
-- ⚡ Fun fact **I am video editor who uses Filmora, AfterEffects and DaVinci Resolve**
+💡 **Open to** collaboration, contributions, and meaningful tech conversations. Always eager to learn and grow together.
 
 
 
@@ -99,27 +101,21 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Contact Me:</h3>
 <p align="left"></p>
 <div align="left">
   <a href="https://www.hackerrank.com/profile/bhattacharjeeay1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/ay.awnnn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@ay.own" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="bhattacharjeeayan93@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ayan-bhattacharjee-6b8ab534a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/flabrgastd_Boy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
