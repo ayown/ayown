@@ -20,8 +20,10 @@
 - Diving deeper into the **MERN** stack  
 - Building side projects to learn by doing  
 
+
 💻 **Languages & Tools**:  
 Java · JavaScript · React · Node.js · MongoDB
+
 
 📚 **You’ll often find me**:  
 - Tinkering with code  
