@@ -23,7 +23,7 @@
 💻 **Languages & Tools**:  
 Java · JavaScript · React · Node.js · MongoDB
 
-📚 You’ll often find me:  
+📚 **You’ll often find me**:  
 - Tinkering with code  
 - Reading something new in tech  
 - Trying to edit my way into this world - Occasional Editor ⚡
