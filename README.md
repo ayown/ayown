@@ -44,8 +44,10 @@ Java · JavaScript · React · Node.js · MongoDB
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwindcss,mongodb,python,java,git,github,vercel&theme=dark" />
 </div>
+
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height="40" alt="premiere pro logo"  />
   <img width="12" />
@@ -69,7 +71,8 @@ Java · JavaScript · React · Node.js · MongoDB
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-
+--!>
+  
   <br>
 
 ###
