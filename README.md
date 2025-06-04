@@ -30,7 +30,7 @@ Java · JavaScript · React · Node.js · MongoDB
 
 💡 **Open to** collaboration, contributions, and meaningful tech conversations. Always eager to learn and grow together.
 
-<br><br>
+<br>
 
 ###
 <h3 align="center">Languages and Tools:</h3>
@@ -38,6 +38,7 @@ Java · JavaScript · React · Node.js · MongoDB
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwindcss,mongodb,python,java,git,github,vercel&theme=dark" />
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayown&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
