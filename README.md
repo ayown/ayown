@@ -41,10 +41,10 @@ Java · JavaScript · React · Node.js · MongoDB
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayown&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=ayown&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayown&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+--!>
 
 <br><br>
 
@@ -80,14 +80,16 @@ Java · JavaScript · React · Node.js · MongoDB
   <br>
 
 ###
-
-<img align="right" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s" />
-
+<div>
+  <!--<img align="right" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s" />
+</div>
+--!>
+  
 ###
 
-<h3 align="left">📫 Connect with Me:</h3>
-<p align="left"></p>
-<div align="left">
+<h3 align="center">📫 Connect with Me:</h3>
+<p align="center"></p>
+<div align="center">
   <a href="https://www.hackerrank.com/profile/bhattacharjeeay1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
