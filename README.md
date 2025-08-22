@@ -94,7 +94,7 @@ Java · JavaScript · React · Node.js · MongoDB
 
   <!-- Second Row: GitHub Streak Stats -->
   <br />
-  <img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="anubhav-auth's GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=ayown&theme=gruvbox&hide_border=true" alt="ayown's GitHub Streak Stats" />
 
 </div>
 
