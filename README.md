@@ -101,7 +101,7 @@ Java · JavaScript · React · Node.js · MongoDB
 ###
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>My Contributions 🎓 </h2>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.svg" />
