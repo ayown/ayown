@@ -57,7 +57,7 @@ Java · JavaScript · React · Node.js · MongoDB
   
 ###
 
-<h3 align="center">📫 Connect with Me:</h3>
+<!--<h3 align="center">📫 Connect with Me:</h3>
 <p align="center"></p>
 <div align="center">
   <a href="https://www.hackerrank.com/profile/bhattacharjeeay1" target="_blank">
@@ -73,7 +73,7 @@ Java · JavaScript · React · Node.js · MongoDB
   <a href="https://www.linkedin.com/in/ayan-bhattacharjee-6b8ab534a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+</div> -->
 
 ###
 
