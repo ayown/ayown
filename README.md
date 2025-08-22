@@ -46,9 +46,6 @@ Java · JavaScript · React · Node.js · MongoDB
 </div>
 --!>
 
-<br><br>
-
-
 ###
 <div>
   <!--<img align="right" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s" />
