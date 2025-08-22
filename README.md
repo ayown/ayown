@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate Web developer from Bhubaneswar</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayown&label=Profile%20views&color=0e75b6&style=flat" alt="ayown" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayown&label=Profile%20views&color=0e75b6&style=flat" alt="ayown" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayown" alt="ayown" /></a> </p>
 
@@ -77,21 +77,50 @@ Java · JavaScript · React · Node.js · MongoDB
 
 ###
 
-<br clear="both">
+<br/>
+<h2 align="center"> Github Statistics 📈</h2>
 
-<div align="center"><img src="https://raw.githubusercontent.com/ayown/ayown/output/github-snake.svg" alt="Snake animation" /></div>
-
-###
+![](https://komarev.com/ghpvc/?username=ayown)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ayown/count.svg?"  />
+
+  <!-- First Row: GitHub Stats and Top Languages -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayown&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="ayown's GitHub Stats" />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayown&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="ayown's Top Languages" />
+    
+  </div>
+
+  <!-- Second Row: GitHub Streak Stats -->
+  <br />
+  <img src="https://streak-stats.demolab.com?user=anubhav-auth&theme=gruvbox&hide_border=true" alt="anubhav-auth's GitHub Streak Stats" />
+
 </div>
 
 ###
 
-
-
 <div align="center">
+  <h2>My Contributions</h2>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.gif" />
+</picture>
+</div>
+
+<!--<br clear="both">
+<div align="center"><img src="https://raw.githubusercontent.com/ayown/ayown/output/github-snake.svg" alt="Snake animation" /></div> -->
+
+
+<!-- <div align="center">
+  <img src="https://profile-counter.glitch.me/ayown/count.svg" />
+</div> -->
+
+###
+
+
+
+<!-- <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayown&" alt="ayown" />
-</div>
-
+</div> -->
