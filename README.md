@@ -33,27 +33,17 @@ Java · JavaScript · React · Node.js · MongoDB
 <br>
 
 ###
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwindcss,mongodb,python,java,git,github,vercel&theme=dark" />
 </div>
 
-<br>
 
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=ayown&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayown&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 --!>
-
-###
-<div>
-  <!--<img align="right" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AcolCenvJRkD959zamxyxXg1w4cVJlnz1A&s" />
-</div>
---!>
-  
-###
-
 <!--<h3 align="center">📫 Connect with Me:</h3>
 <p align="center"></p>
 <div align="center">
