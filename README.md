@@ -71,18 +71,16 @@ Java · JavaScript · React · Node.js · MongoDB
 ![](https://komarev.com/ghpvc/?username=ayown)
 
 <div align="center">
-
-  <!-- First Row: GitHub Stats and Top Languages -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayown&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="ayown's GitHub Stats" />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayown&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="ayown's Top Languages" />
-    
-  </div>
+<!-- First Row: GitHub Stats and Top Languages -->
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=ayown&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="ayown's GitHub Stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayown&theme=gruvbox&show_icons=true&hide_border=true" alt="ayown's Top Languages" />
+</p>
 
   <!-- Second Row: GitHub Streak Stats -->
-  <br />
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=ayown&theme=gruvbox&hide_border=true" alt="ayown's GitHub Streak Stats" />
+</p>
 
 </div>
 
