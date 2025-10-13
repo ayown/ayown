@@ -36,7 +36,7 @@ Java · JavaScript · React · Node.js · MongoDB
 ###
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,nodejs,react,next,mongodb,mysql,python,java,vscode,idea,pycharm,git,github,figma,postman,blender,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,nodejs,react,next,mongodb,mysql,python,java,vscode,idea,pycharm,github,figma,postman,docker&theme=dark" />
 </div>
 
 
