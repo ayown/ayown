@@ -8,7 +8,7 @@
 
 </div>
 
-<h3 align="center">A passionate Web developer from Bhubaneswar</h3>
+<h3 align="center">Web developer</h3>
 
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayown&label=Profile%20views&color=0e75b6&style=flat" alt="ayown" /> </p> -->
 
