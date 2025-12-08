@@ -10,9 +10,9 @@ docs/** linguist-documentation
 # vendor/** linguist-vendored
 
 # --- Optional: Force a language for the whole repo ---
-# WARNING: Only use this if you understand it will tell GitHub to treat all files as that language.
-# Uncomment one of the following lines to force a language (example: Python).
-# * linguist-language=Python
+ WARNING: Only use this if you understand it will tell GitHub to treat all files as that language.
+ Uncomment one of the following lines to force a language (example: Python).
+ * linguist-language=Python
 
 # --- Optional: Force a language for a specific folder/pattern ---
 # Useful if you add source files under src/ but want to ensure they are counted as a specific language.
