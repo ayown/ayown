@@ -15,5 +15,5 @@ docs/** linguist-documentation
  * linguist-language=Python
 
 # --- Optional: Force a language for a specific folder/pattern ---
-# Useful if you add source files under src/ but want to ensure they are counted as a specific language.
-# src/** linguist-language=Python
+ Useful if you add source files under src/ but want to ensure they are counted as a specific language.
+ src/** linguist-language=Python
