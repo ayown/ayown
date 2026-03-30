@@ -68,19 +68,29 @@ Java · JavaScript · React · Node.js · MongoDB
 <br/>
 <h2 align="center"> Github Statistics 📈</h2>
 
-![](https://komarev.com/ghpvc/?username=ayown)
+ <!--![](https://komarev.com/ghpvc/?username=ayown) -->
 
 <div align="center">
 <!-- First Row: GitHub Stats and Top Languages -->
-<p align="center">
+<!-- <p align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=ayown&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="ayown's GitHub Stats" />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayown&theme=gruvbox&show_icons=true&hide_border=true" alt="ayown's Top Languages" />
-</p>
+</p> -->
 
   <!-- Second Row: GitHub Streak Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayown&theme=gruvbox&hide_border=true" alt="ayown's GitHub Streak Stats" />
-</p>
+</p> -->
+
+<h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">🔥 Contribution Streak</h3>
+  <div style="margin-bottom: 40px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaswatBarai&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA" alt="GitHub Streak" style="border-radius: 12px;">
+  </div>
+
+  <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">📊 Activity Graph</h3>
+  <div style="margin-bottom: 40px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaswatBarai&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" alt="GitHub Activity Graph" style="border-radius: 12px;">
+  </div>
 
 </div>
 
