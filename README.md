@@ -84,7 +84,7 @@ Java · JavaScript · React · Node.js · MongoDB
 
 <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">🔥 Contribution Streak</h3>
   <div style="margin-bottom: 40px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaswatBarai&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA" alt="GitHub Streak" style="border-radius: 12px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayown&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA" alt="GitHub Streak" style="border-radius: 12px;">
   </div>
 
   <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">📊 Activity Graph</h3>
@@ -97,26 +97,16 @@ Java · JavaScript · React · Node.js · MongoDB
 ###
 
 <div align="center">
-  <h2>My Contributions 🎓 </h2>
+  <h2>My Contributions 🐍</h2>
+
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/anubhav-auth/anubhav-auth/blob/output/github-contribution-grid-snake.gif" />
-</picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github.com/ayown/ayown/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github.com/ayown/ayown/blob/output/github-snake.svg" />
+    <img alt="github-snake" 
+      src="https://github.com/ayown/ayown/blob/output/ocean.gif" />
+  </picture>
 </div>
 
-<!--<br clear="both">
-<div align="center"><img src="https://raw.githubusercontent.com/ayown/ayown/output/github-snake.svg" alt="Snake animation" /></div> -->
-
-
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/ayown/count.svg" />
-</div> -->
-
 ###
-
-
-
-<!-- <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayown&" alt="ayown" />
-</div> -->
