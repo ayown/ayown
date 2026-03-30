@@ -89,7 +89,7 @@ Java · JavaScript · React · Node.js · MongoDB
 
   <h3 style="color: #FFD700; font-size: 24px; margin-bottom: 20px; border-bottom: 3px solid #FFD700; padding-bottom: 15px; display: inline-block;">📊 Activity Graph</h3>
   <div style="margin-bottom: 40px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaswatBarai&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" alt="GitHub Activity Graph" style="border-radius: 12px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayown&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" alt="GitHub Activity Graph" style="border-radius: 12px;">
   </div>
 
 </div>
