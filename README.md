@@ -66,7 +66,7 @@ Java · JavaScript · React · Node.js · MongoDB
 ###
 
 <br/>
-<h2 align="center"> Github Statistics 📈</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Github Statistics </h2>
 
  <!--![](https://komarev.com/ghpvc/?username=ayown) -->
 
